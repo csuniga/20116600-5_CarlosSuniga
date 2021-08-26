@@ -1,0 +1,91 @@
+#menu ul {
+    padding: 0px;
+    margin: 0px;
+    float: left;
+    width: 100%;
+    background-color: #ededed;
+    list-style: none;
+    font: 80% arial;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    background-color: #ededed;
+    color: #333;
+    text-decoration: none;
+    border-bottom: 3px solid #ededed;
+    padding: 2px 6px;
+    float: left;
+}
+
+#menu ul li a:hover {
+    background-color: #d6d6d6;
+}
+
+#rodape {
+    padding: 0;
+    margin: 0;
+    float: inline-end;
+    width: 100%;
+    list-style: none;
+    background-color: #ededed;
+    font: 80% arial;
+    position:absolute;
+    bottom:0;
+    
+}
+
+#figesquerda {
+    float: left;
+    text-align: center;
+    text-indent: 0;
+    
+}
+
+#figdireita {
+    float: right;
+    text-align: center;
+    text-indent: 0;
+}
+
+#pgini {
+    float: inline-start;
+    background-color: rgb(191, 191, 196);
+}
+
+#pgproduto {
+    float: inline-start;
+}
+
+#ingr {
+    
+    padding-left: 40px;
+}
+
+#pgproduto {
+    border-radius: 10%;
+    background-color: rgb(191, 191, 196);
+}
+
+#container {
+    background-color: #ededed;
+    text-decoration: none;
+    padding: 2px 6px;
+    float: left;
+    width: 70%;
+}
+
+#formulario {
+    background-color: #ededed;
+    text-decoration: none;
+    padding: 6px 6px;
+    float: left;
+    width: 30%;
+}
+
+body {
+    background-color: #d4d1d1;
+}
